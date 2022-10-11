@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @LakhanPatilGit
+- 👀 I’m interested in software development...
+- 🌱 I’m currently learning reactJs ...
+- 📫 How to reach me at patillakhan25@gmail.com ...
+
+<!---
+LakhanPatilGit/LakhanPatilGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
